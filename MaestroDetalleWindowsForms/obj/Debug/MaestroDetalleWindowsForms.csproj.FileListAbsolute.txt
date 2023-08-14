@@ -1,0 +1,11 @@
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\bin\Debug\MaestroDetalleWindowsForms.exe.config
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\bin\Debug\MaestroDetalleWindowsForms.exe
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\bin\Debug\MaestroDetalleWindowsForms.pdb
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.csproj.AssemblyReference.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.Form1.resources
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.Properties.Resources.resources
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.csproj.GenerateResource.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.exe
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\MaestroDetalleWindowsForms\obj\Debug\MaestroDetalleWindowsForms.pdb
