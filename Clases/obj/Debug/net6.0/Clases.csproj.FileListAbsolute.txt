@@ -1,0 +1,12 @@
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\bin\Debug\net6.0\Clases.deps.json
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\bin\Debug\net6.0\Clases.dll
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\bin\Debug\net6.0\Clases.pdb
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.dll
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\refint\Clases.dll
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\Clases.pdb
+C:\Users\cabre\OneDrive\Escritorio\MaestroDetalle\Clases\obj\Debug\net6.0\ref\Clases.dll
